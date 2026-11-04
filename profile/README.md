@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/testgatify/review/main/docs/logo.png" alt="TestGatify dragon guarding the gate" width="140">
+  <img src="tg-logo.png" alt="TestGatify logo: the letters TG with a check mark inside the G" width="140">
 </p>
 
 <h1 align="center">TestGatify</h1>
