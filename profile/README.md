@@ -4,21 +4,31 @@
 
 <h1 align="center">TestGatify</h1>
 
-<p align="center"><b>Don't just generate tests. Gatify them.</b></p>
+<p align="center"><b>Independent AI Testing &amp; Evaluation</b></p>
 
-TestGatify builds open-source tools for **AI-augmented testing**. AI does the drafting; a **gate** of the checks a test manager would make decides what is ready to use. Nothing reaches your test team without passing the gate.
+TestGatify is an independent AI testing and evaluation brand focused on measurable quality, reproducible methods and evidence-based results. Its technical portfolio includes open-source testing tools and ongoing evaluation research.
 
-## Tools
+## Available product
 
-| Tool | What it does | Status |
+| Product | What it does | Status |
 |---|---|---|
-| [**Review**](https://github.com/testgatify/review) | AI writes your test scenarios from requirements. A static review returns **ACCEPT**, **MINOR REWORK** or **MAJOR REWORK**, and the scenarios export to Excel and Jira Xray. | Available |
-| Playwright | Turn accepted scenarios into Playwright tests. | Planned |
+| [**TestGatify Review**](https://github.com/testgatify/review) | Generates test scenarios from requirements, applies deterministic **static reviews** to scenario design and exports Excel and Jira Xray CSV files. | Available |
+
+**Review tagline:** *Don't just generate tests. Gatify them.*
+
+Review can return **ACCEPT**, **MINOR REWORK** or **MAJOR REWORK** for **test-scenario design**. It does not execute the target application or establish the quality of an AI system.
+
+## Direction
+
+- **LLM, RAG and AI Agent Evaluation:** Planned work using golden datasets, measurable metrics, benchmark tables and reproducible analysis.
+- **TestGatify Website:** A future public corporate website and technical portfolio.
+- **TestGatify Operations:** A separate private management panel; it is not a public service or product offering.
+- **Review extensions:** LLM-as-judge and Playwright execution remain on the product roadmap, not current capabilities.
 
 ## Why "Gatify"?
 
-**Gate + verify.** Every AI output passes a gate before anyone relies on it.
+The name is coined from **gate + -ify → gatify**, with the final **e** dropped. It evokes passing a defined quality gate. It is a brand-created verb, not a standard English dictionary verb.
 
 ---
 
-Created by [Tülay Güçlü](https://github.com/tulayguclu), QA lead with 14+ years in defence, public-sector and telecom testing. [LinkedIn](https://www.linkedin.com/in/tulayguclu/)
+Created by [Tülay Güçlü](https://github.com/tulayguclu), QA engineer with 14+ years of testing experience. [LinkedIn](https://www.linkedin.com/in/tulayguclu/)
